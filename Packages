@@ -1,0 +1,8 @@
+
+Package: com.bekeso.github.io.b6.6s.deadtweak
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.7.1
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Name: DeadTweak
+Author: Dead guy
